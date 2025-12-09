@@ -1,0 +1,8 @@
+-r requirements.txt
+pytest>=7.0
+pytest-django>=4.5
+black>=22.0
+flake8>=4.0
+isort>=5.10
+build>=0.10
+twine>=4.0
